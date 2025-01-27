@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Faris and I am currently a student studying Computer Engineering in Nanyang Technological University (NTU).
+
+
+# School Projects
+- [Data Analysis of Car Crashes in US](https://github.com/faris1702/SC1015-Mini-Project)
 <!--
 **faris1702/faris1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
