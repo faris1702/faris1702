@@ -13,6 +13,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [SC2002: Object Oriented Programming](https://github.com/faris1702/SC2002-Object-Oriented-Programming-Labs)
 - [SC2104: Sensor Interface & Design](https://github.com/faris1702/SC2104-Sensor-Interface-and-Design)
 - [SC2107: Microprocessor System Design & Development](https://github.com/faris1702/SC2107-Microprocessor-System-Design-and-Development)
+- [SC2005: Operating System](https://github.com/faris1702/SC2005-Operating-System)
 
 ## Personal Projects
 ### Games
