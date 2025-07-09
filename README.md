@@ -24,7 +24,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 
 ## Certifications
 ### CCNA 
-- [CCNA Notes]()
+- [CCNA Notes](https://github.com/faris1702/CCNA-Notes)
 <!--
 **faris1702/faris1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
