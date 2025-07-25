@@ -24,8 +24,9 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
 ## Certifications
-### CCNA 
 - [CCNA Notes](https://github.com/faris1702/CCNA-Notes)
+- [Google IT Support Professional Certificate (Coursera)]
+- [Google IT Automation with Python (Coursera)]
 <!--
 **faris1702/faris1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
