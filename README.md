@@ -5,9 +5,9 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 
 ## School Work
 ### Projects
-- [SC1015: Data Analysis of Car Crashes in US](https://github.com/faris1702/SC1015-Mini-Project)        
-- [SC2002: Hospital Management System](https://github.com/faris1702/SC2002-Hospital-Management-System-Project)
-- [SC2006: Software Engineering](https://github.com/Gideon2882/SC2006-T2)
+- [SC1015 (Intro to Data Science & AI): Data Analysis of Car Crashes in US](https://github.com/faris1702/SC1015-Mini-Project)        
+- [SC2002 (Intro to OOP): Hospital Management System](https://github.com/faris1702/SC2002-Hospital-Management-System-Project)
+- [SC2006 (Software Engineering): Silver Circle](https://github.com/Gideon2882/SC2006-T2)
 ### Labs
 - [SC1015: Intro to Data Sci & AI]()
 - [SC2001: Algorithm Design & Analysis](https://github.com/faris1702/SC2001-Algorithm-Design-and-Analysis)
