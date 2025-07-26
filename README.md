@@ -26,7 +26,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 ## Certifications
 - [<b>Cisco Certified Network Associate (CCNA 200-301)</b>](https://github.com/faris1702/CCNA-Notes)
 - [Google IT Support Professional Certificate (Coursera)](https://github.com/faris1702/Google-IT-Support/tree/main)
-- [Google IT Automation with Python (Coursera)]
+- [Google IT Automation with Python (Coursera)](https://github.com/faris1702/Google-IT-Automation-with-Python)
 <!--
 **faris1702/faris1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
