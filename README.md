@@ -24,7 +24,9 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
 ## Certifications
+### Official
 - [<b>Cisco Certified Network Associate (CCNA 200-301)</b>](https://github.com/faris1702/CCNA-Notes)
+- ### Online Courses
 - [Google IT Support Professional Certificate (Coursera)](https://github.com/faris1702/Google-IT-Support/tree/main)
 - [Google IT Automation with Python (Coursera)](https://github.com/faris1702/Google-IT-Automation-with-Python)
 <!--
