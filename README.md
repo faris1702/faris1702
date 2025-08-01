@@ -20,6 +20,8 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 ### Games
 - [TicTacToe](https://github.com/faris1702/TicTacToe)
 - [Connect 4](https://github.com/faris1702/Connect4)
+### Networking
+- [JITL Mega Lab](https://github.com/faris1702/JITL-Mega-Lab)
 ### Others
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
