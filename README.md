@@ -32,6 +32,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [Google IT Support Professional Certificate (Coursera)](https://github.com/faris1702/Google-IT-Support/tree/main)
 - [Google IT Automation with Python (Coursera)](https://github.com/faris1702/Google-IT-Automation-with-Python)
 - [Cisco Network Automation Engineering (Coursera)](https://github.com/faris1702/Cisco-Network-Automation-Engineering)
+- [Microsoft AZ-900 Azure Fundamentals Exam Prep (Coursera)](https://github.com/faris1702/Microsoft-AZ-900-Azure-Fundamentals-Exam-Prep-Coursera-/tree/main)
 <!--
 **faris1702/faris1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
