@@ -23,6 +23,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 ### Networking (Packet Tracer)
 - [JITL Mega Lab](https://github.com/faris1702/JITL-Mega-Lab)
 - [WLC Configuration](https://github.com/faris1702/WLC_Configuration/tree/main)
+- [School Network](https://github.com/faris1702/School_Network)
 ### Others
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
