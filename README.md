@@ -24,6 +24,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [JITL Mega Lab (Packet Tracer)](https://github.com/faris1702/JITL-Mega-Lab)
 - [WLC Configuration (Packet Tracer)](https://github.com/faris1702/WLC_Configuration/tree/main)
 - [School Network (Packet Tracer)](https://github.com/faris1702/School_Network)
+- [Wireshark Tutorial by Chris Greer](https://github.com/faris1702/Wireshark-Tutorial-by-Chris-Greer-)
 ### Others
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
