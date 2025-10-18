@@ -8,6 +8,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [SC1015 (Intro to Data Science & AI): Data Analysis of Car Crashes in US](https://github.com/faris1702/SC1015-Mini-Project)        
 - [SC2002 (Intro to OOP): Hospital Management System](https://github.com/faris1702/SC2002-Hospital-Management-System-Project)
 - [SC2006 (Software Engineering): Silver Circle](https://github.com/Gideon2882/SC2006-T2)
+- [SC2079 (MDP)](https://github.com/faris1702/SC2079-STM32-Robot)
 ### Labs
 - [SC1015: Intro to Data Sci & AI]()
 - [SC2001: Algorithm Design & Analysis](https://github.com/faris1702/SC2001-Algorithm-Design-and-Analysis)
@@ -25,6 +26,7 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [WLC Configuration (Packet Tracer)](https://github.com/faris1702/WLC_Configuration/tree/main)
 - [School Network (Packet Tracer)](https://github.com/faris1702/School_Network)
 - [Wireshark Tutorial by Chris Greer](https://github.com/faris1702/Wireshark-Tutorial-by-Chris-Greer-)
+- [Network Automation: Ansible & GNS3](https://github.com/faris1702/Network-Automation-Project)
 ### Others
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
