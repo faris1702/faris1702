@@ -27,6 +27,8 @@ My name is Faris and I am currently a student studying Computer Engineering in N
 - [School Network (Packet Tracer)](https://github.com/faris1702/School_Network)
 - [Wireshark Tutorial by Chris Greer](https://github.com/faris1702/Wireshark-Tutorial-by-Chris-Greer-)
 - [Network Automation: Ansible & GNS3](https://github.com/faris1702/Network-Automation-Project)
+- [Network Automation: AI Agent, Ansible & GNS3](https://github.com/faris1702/AI_Agent_Network_Automation)
+- [GNS3 Setup with Cisco Images](https://github.com/faris1702/GNS3-Setup-with-Cisco-Images)
 ### Others
 - [Calculator](https://github.com/faris1702/Faris-Calculator)
 
